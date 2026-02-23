@@ -20,10 +20,10 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Measuring how public markets react to innovation events: product launches,
   keynotes, and strategic announcements across tech companies.
-baseurl: "/Swissdata" # the subpath of your site, e.g. /blog
-url: "https://ydib11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Innovation-Footprints-in-Tech-Stock-Markets---Website" # the subpath of your site, e.g. /blog
+url: "https://kevinabj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username: ydib11
+github_username: Kevinabj
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
